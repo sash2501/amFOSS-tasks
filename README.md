@@ -18,7 +18,9 @@ Regards,
 Sashmita Raghav
 
 S1,AIE
+
+
 Task No. | Task Name | Description
 --- | --- | ---
 0| Ubuntu  | Installed Ubuntu using bootable pen drive. However, the version of Ubuntu didn't have drivers for touchpad installed. So, I had to install Ubuntu using usb mouse and the later installed drivers for touchpad
-1 |  | 
+1 |2  | 2
